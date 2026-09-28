@@ -1,0 +1,5 @@
+.build/
+Vinyl.app/
+dist/
+.DS_Store
+*.iconset/

@@ -1,0 +1,3 @@
+#ifndef NOW_PLAYING_BRIDGE_H
+#define NOW_PLAYING_BRIDGE_H
+#endif
